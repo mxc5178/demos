@@ -1,0 +1,168 @@
+???
+
+[AD
+AiP (http
+Apache
+Apache/1.3.27 (Unix) PHP/4.3.9 mod_ssl/2.8.14 OpenSSL/0.9.7a FrontPage/5.0.2.2623
+Apache/1.3.28 (Linux/SuSE) mod_ucam_webauth/1.0.6
+Apache/1.3.37 (Unix) mod_layout/3.2.1 AuthMySQL/2.20 PHP/4.4.3 mod_ssl/2.8.28 OpenSSL/0.9.7e
+Apache/1.3.37 (Unix) PHP/5.1.6
+Apache/2
+Apache/2.0.40 (Red Hat Linux)
+Apache/2.0.52 (CentOS)
+Apache/2.0.55 (Ubuntu) PHP/5.1.2 mod_ssl/2.0.55 OpenSSL/0.9.8a
+Apache/2.0.63 (Unix) mod_ssl/2.0.63 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635 PHP/5.3.6
+Apache/2.0.64 (Unix) mod_ssl/2.0.64 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+Apache/2.2.12 (Linux/SUSE)
+Apache/2.2.12 (Ubuntu)
+Apache/2.2.14 (Ubuntu)
+Apache/2.2.14 (Unix) PHP/5.2.11
+Apache/2.2.15 (CentOS)
+Apache/2.2.15 (CentOS) DAV/2 mod_ssl/2.2.15 OpenSSL/1.0.0-fips SVN/1.6.11
+Apache/2.2.15 (Red Hat)
+Apache/2.2.16
+Apache/2.2.16 (Debian)
+Apache/2.2.16 (Debian) mod_ssl/2.2.16 OpenSSL/0.9.8o
+Apache/2.2.16 (Debian) PHP/5.3.3-7+squeeze14 with Suhosin-Patch proxy_html/3.0.1 mod_ssl/2.2.16 OpenSSL/0.9.8o
+Apache/2.2.16 (Ubuntu)
+Apache/2.2.16 (Unix) mod_ssl/2.2.16 OpenSSL/0.9.8e-fips-rhel5 DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+Apache/2.2.17 (CentOS)
+Apache/2.2.17 (Unix) mod_ssl/2.2.17 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+Apache/2.2.17 (Unix) mod_ssl/2.2.17 OpenSSL/0.9.8m DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635 mod_perl/2.0.7 Perl/v5.8.8
+Apache/2.2.17 (Unix) mod_ssl/2.2.17 OpenSSL/1.0.0d DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635 mod_jk/1.2.30
+Apache/2.2.18 (Unix) mod_ssl/2.2.18 OpenSSL/1.0.0c DAV/2 PHP/5.3.4
+Apache/2.2.18 (Unix) mod_ssl/2.2.18 OpenSSL/1.0.0-fips DAV/2 PHP/5.3.4
+Apache/2.2.20 (Ubuntu)
+Apache/2.2.20 (Unix) mod_ssl/2.2.20 OpenSSL/0.9.8i DAV/2 Phusion_Passenger/3.0.5 PHP/5.3.2
+Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/1.0.0-fips DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+Apache/2.2.21 (Win32) PHP/5.3.10
+Apache/2.2.22
+Apache/2.2.22 (Amazon)
+Apache/2.2.22 (Debian)
+Apache/2.2.22 (Ubuntu)
+Apache/2.2.22 (Unix) DAV/2 PHP/5.3.15 with Suhosin-Patch mod_ssl/2.2.22 OpenSSL/0.9.8x
+Apache/2.2.22 (Unix) mod_ssl/2.2.22 OpenSSL/0.9.8e-fips-rhel5 DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+Apache/2.2.22 (Unix) mod_ssl/2.2.22 OpenSSL/0.9.8e-fips-rhel5 mod_wsgi/3.3 Python/2.4.3 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+Apache/2.2.22 (Unix) PHP/5.3.15
+Apache/2.2.23 (Amazon)
+Apache/2.2.23 (Unix)
+Apache/2.2.23 (Unix) mod_ssl/2.2.23 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+Apache/2.2.24
+Apache/2.2.24 (Amazon)
+Apache/2.2.24 (Unix)
+Apache/2.2.24 (Unix) DAV/2 PHP/5.3.26 mod_ssl/2.2.24 OpenSSL/0.9.8y
+Apache/2.2.24 (Unix) mod_ssl/2.2.24 OpenSSL/0.9.8e-fips-rhel5 mod_bwlimited/1.4
+Apache/2.2.24 (Unix) mod_ssl/2.2.24 OpenSSL/1.0.0-fips DAV/2 mod_bwlimited/1.4 mod_qos/10.10 mod_perl/2.0.6 Perl/v5.10.1
+Apache/2.2.24 (Unix) mod_ssl/2.2.24 OpenSSL/1.0.0-fips mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+Apache/2.2.24 (Unix) mod_ssl/2.2.24 OpenSSL/1.0.0-fips mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635 PHP/5.3.26
+Apache/2.2.24 (Unix) mod_ssl/2.2.24 OpenSSL/1.0.0-fips mod_bwlimited/1.4
+Apache/2.2.25
+Apache/2.2.25 (Amazon)
+Apache/2.2.25 (Unix) mod_ssl/2.2.25 OpenSSL/1.0.0-fips mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+Apache/2.2.25 (Unix) mod_ssl/2.2.25 OpenSSL/1.0.0-fips mod_bwlimited/1.4
+Apache/2.2.25 (Unix) mod_ssl/2.2.25 OpenSSL/1.0.0-fips mod_jk/1.2.37 mod_bwlimited/1.4
+Apache/2.2.25 (Unix) mod_ssl/2.2.25 OpenSSL/1.0.1e DAV/2 PHP/5.5.5
+Apache/2.2.25 (Win32)
+Apache/2.2.3 (CentOS)
+Apache/2.2.3 (Red Hat)
+Apache/2.2.8 (Ubuntu) mod_python/3.3.1 Python/2.5.2 PHP/5.2.4-2ubuntu5.26 with Suhosin-Patch mod_ssl/2.2.8 OpenSSL/0.9.8g mod_perl/2.0.3 Perl/v5.8.8
+Apache/2.2.8 (Ubuntu) PHP/5.2.4-2ubuntu5.10 with Suhosin-Patch mod_ssl/2.2.8 OpenSSL/0.9.8g Phusion_Passenger/2.2.11 mod_perl/2.0.3 Perl/v5.8.8
+Apache/2.2.8 (Ubuntu) PHP/5.2.4-2ubuntu5.27 with Suhosin-Patch
+Apache/2.2.9 (Debian) PHP/5.2.6-1+lenny16 with Suhosin-Patch
+Apache/2.2.9 (Debian) PHP/5.2.6-1+lenny16 with Suhosin-Patch mod_ssl/2.2.9 OpenSSL/0.9.8g
+Apache/2.2.9 (Debian) PHP/5.2.6-1+lenny3 with Suhosin-Patch
+Apache/2.2.9 (Debian) PHP/5.2.6-1+lenny9 with Suhosin-Patch
+Apache/2.2.9 (Fedora)
+Apache/2.2.9 (Win32) DAV/2 mod_ssl/2.2.9 OpenSSL/0.9.8i mod_autoindex_color PHP/5.2.6
+Apache/2.4
+Apache/2.4.3 (Unix)
+Apache/2.4.3 (Win32) OpenSSL/1.0.1c PHP/5.4.7
+Apache/2.4.4 (Amazon) OpenSSL/1.0.1e-fips PHP/5.4.13 mod_perl/2.0.7 Perl/v5.10.1
+Apache/2.4.4 (Amazon) OpenSSL/1.0.1e-fips PHP/5.4.17 mod_perl/2.0.7 Perl/v5.10.1
+Apache/2.4.4 (Debian)
+Apache/2.4.4 (Win32) OpenSSL/0.9.8y PHP/5.4.16
+Apache/2.4.4 (Win32) OpenSSL/0.9.8y PHP/5.4.19
+Apache/2.4.6 (Debian)
+Apache/2.4.6 (Ubuntu)
+Apache-Coyote/1.1
+ATS/3.2.0
+BigIP
+Cherokee
+'; DROP TABLE servertypes; --
+GitHub.com
+GSE
+gunicorn/0.12.2
+gws
+HTTP/1.1 UserFiberFramework/1.0 
+HTTP/1.1 UserFiberFramework/1.0
+IceWarp/8.3
+IdeaWebServer/v0.80
+LastPass
+lighttpd
+lighttpd/1.4.19
+lighttpd/1.4.26
+LiteSpeed
+Lotus-Domino
+Microsoft-IIS/6.0
+Microsoft-IIS/7.0
+Microsoft-IIS/7.5
+Microsoft-IIS/8.0
+Microsoft-IIS/8.5
+mt2/2.6.2.15875 Aug  7 2013 21
+mt2/2.6.2.2465 Sep 24 2012 22
+mt2/2.6.3.14517 Jan 15 2013 21
+mt2/2.9.1+3f337b4 2.9.1-beta2 Nov 14 2013 21
+mt2/2.9.1+aeb51e0 2.9.1.release Nov 15 2013 16
+nginx
+nginx/0.5.26
+nginx/0.5.33
+nginx/0.6.32
+nginx/0.7.62
+nginx/0.7.65
+nginx/0.7.67
+nginx/0.8.54
+nginx/0.8.55
+nginx/1.0.10 + Phusion Passenger 3.0.11 (mod_rails/mod_rack)
+nginx/1.0.12
+nginx/1.0.14
+nginx/1.0.15
+nginx/1.0.15 + Phusion Passenger 3.0.11 (mod_rails/mod_rack)
+nginx/1.0.5
+nginx/1.0.6 + Phusion Passenger 3.0.9 (mod_rails/mod_rack)
+nginx/1.1.19
+nginx/1.2.1
+nginx/1.2.2
+nginx/1.2.3
+nginx/1.2.3 + Phusion Passenger 3.0.11 (mod_rails/mod_rack)
+nginx/1.2.6
+nginx/1.2.6 + Phusion Passenger 3.0.19
+nginx/1.2.6 (Ubuntu)
+nginx/1.2.7
+nginx/1.2.9
+nginx/1.4.1
+nginx/1.4.2
+nginx/1.4.2 + Phusion Passenger 4.0.14
+nginx/1.4.3
+nginx/1.4.3 + Phusion Passenger 4.0.23
+nginx/1.5.1
+nginx/1.5.6
+nginx admin
+nginx + Phusion Passenger 4.0.24
+ngx_openresty
+PornIWatch/1.0.0
+squid/2.7.STABLE9
+squid/3.1.10
+static-images4
+Sun-ONE-Web-Server/6.1
+SWS
+tfe
+TwistedWeb/10.2.0
+Unknown
+UserFiberFramework/1.0
+WebStar 1.0
+Winstone Servlet Engine v0.9.10
+WSGIServer/0.1 Python/2.7.4
+XWS
+YTS/1.19.11
+YTS/1.20.10
+YTS/1.20.13
